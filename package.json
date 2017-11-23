@@ -21,8 +21,8 @@
   "main": "angular2-autosize.ts",
   "license": "MIT",
   "devDependencies": {
-    "@angular/common": "^4.4.6",
-    "@angular/core": "^4.4.6",
-    "typescript": "^2.3.4"
+    "@angular/common": "^5.0.3",
+    "@angular/core": "^5.0.3",
+    "typescript": "2.4.2"
   }
 }
