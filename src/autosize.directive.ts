@@ -7,7 +7,7 @@ import { isPlatformBrowser, isPlatformServer } from '@angular/common';
 
 export class Autosize {
  @HostListener('input',['$event.target'])
-  onInput(textArea: HTMLTextAreaElement): void {
+  onInput(textArea): void {
     this.adjust();
   }
   constructor(
